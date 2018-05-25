@@ -32,9 +32,11 @@ it will give you json
         ----->   localhost:5000/weather/query/(city name)
         ----->example :
                 localhost:5000/weather/query/london
-               it gives you full information of weather, geographic location and predection of upcoming days tempracture.      
+               it gives you full information of weather, geographic location
+               and predection of upcoming days tempracture.      
    # implementation
-      -----> i am using this chatbot with another andriod and ios app to give command to this API and fetch the response or answer according to requirment.
+      -----> i am using this chatbot with another andriod and ios app to give command to
+      this API and fetch the response or answer according to requirment.
    
  # work need to do 
     -----> you can used to make it more accurate and based on syntesis understanding you can used 
