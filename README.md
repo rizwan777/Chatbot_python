@@ -14,10 +14,10 @@ it will give you json
   good GPU to make fast answer of the question
  
 # functionality
-  # it gives you WEB_API access 
-  # Q & A of the request and response accurately
-  # it gives you json format data so you can used in any environment or shar data with android, ios or any platform you want.
-  # third party weather api used for weather forcast of any place.
+   it gives you WEB_API access 
+   Q & A of the request and response accurately
+   it gives you json format data so you can used in any environment or shar data with android, ios or any platform you want.
+   third party weather api used for weather forcast of any place.
   
 # how to run
   just open any web browser and type below links
