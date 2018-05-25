@@ -20,23 +20,23 @@ it will give you json
         third party weather api used for weather forcast of any place.
   
 # how to run
-  just open any web browser and type below links
-    # for training data to chatbot
+  just open any web browser and type below link
+   # for training data to chatbot
         ----->   localhost:5000/chat
-    # for question and answer with chatbot
+   # for question and answer with chatbot
         ----->   localhost:5000/chat/query/(type your question)
         ----->example : 
                localhsot:5000/chat/query/how are you?
                 it gives you ans---> " I am fine, Thank you...!!"
-  # for weather forcast you just type
+   # for weather forcast you just type
         ----->   localhost:5000/weather/query/(city name)
         ----->example :
                 localhost:5000/weather/query/london
                it gives you full information of weather, geographic location and predection of upcoming days tempracture.      
-  # implementation
+   # implementation
       -----> i am using this chatbot with another andriod and ios app to give command to this API and fetch the response or answer according to requirment.
    
-  # work need to do 
+ # work need to do 
     -----> you can used to make it more accurate and based on syntesis understanding you can used 
    # nltk library to hendle accurately and freely
         ----> i added already one word_sent_tokenization.py file to understand
